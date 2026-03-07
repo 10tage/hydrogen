@@ -13,3 +13,7 @@ https://10tage.neocities.org/hydrogen
 ---
 
 ![Screenshot Hydrogen Atom Orbital Simulation - Amber Settings](https://github.com/10tage/hydrogen/blob/main/atom-orbital-3d%2B0_150kp_amber.png)
+
+---
+
+![Gif Hydrogen Atom Orbital Simulation](https://github.com/10tage/hydrogen/blob/main/atom-orbital-3d0.gif?raw=true)
